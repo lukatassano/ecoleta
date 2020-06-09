@@ -15,7 +15,7 @@
 
 ### Tecnologias usadas
 
-- [None.js](https://nodejs.org/en/) :
+- [Node.js](https://nodejs.org/en/) :
   - [Typescript](https://www.typescriptlang.org/)
   - [Celebrate](https://www.npmjs.com/package/celebrate)
   - [Express](https://expressjs.com/)
